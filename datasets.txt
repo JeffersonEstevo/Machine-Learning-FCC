@@ -1,0 +1,11 @@
+MAGIC Gamma Telescope
+Donated on 4/30/2007
+https://archive.ics.uci.edu/dataset/159/magic+gamma+telescope
+
+Seoul Bike Sharing Demand
+Donated on 2/29/2020
+https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand
+
+Seeds
+Donated on 9/28/2012
+https://archive.ics.uci.edu/dataset/236/seeds
